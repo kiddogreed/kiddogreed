@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiddogreed
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning solidity
+
 
 - 📫 How to reach me: kiddogreed@gmail.com
 
