@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @kiddogreed
-- 👀 I’m interested in programming
+# 👋 Hi, I'm John (kiddo)
 
+**Software Engineer | AI Engineering Enthusiast | Full-Stack Developer**
 
-- 📫 How to reach me: kiddogreed@gmail.com
+I specialize in building scalable web applications and exploring the intersection of DevOps and Artificial Intelligence. Currently focused on building autonomous agents and on-device AI solutions.
 
-<!---
-kiddogreed/kiddogreed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 What I'm Working On
+* **ADC (Autonomous DevOps Companion):** A RAG-based knowledge base utilizing Prisma, PostgreSQL/pgvector, and Ollama for local AI intelligence.
+* **P3 Program Generator:** A Spring Boot web app designed for church meeting management with automated document generation.
+* **Matchmaking Systems:** Developing full-stack social platforms using Next.js, TypeScript, and PostgreSQL.
+
+### 🛠️ Tech Stack
+* **Languages:** Java (Spring Boot), TypeScript (Next.js), C#, SQL
+* **AI/LLM:** LangGraph, Vector DBs (pgvector), Ollama, RAG Architectures
+* **Database:** PostgreSQL, Prisma ORM
+* **Tools:** Docker, Git, Linux
+
+### 📬 Connect with Me
+* **Email:** kiddogreed@gmail.com
+* **X (Twitter):** [@kiddogreed0](https://x.com/kiddogreed0)
+* **Location:** Makati, Metro Manila, Philippines 🇵🇭
