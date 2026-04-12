@@ -18,6 +18,6 @@ I specialize in building scalable web applications and exploring the intersectio
 * **Tools:** Docker, Git, Linux
 
 ### 📬 Connect with Me
-* **Email:** kiddogreed@gmail.com
+* **Email:** johnrusselledomingo@gmail.com
 * **X (Twitter):** [@kiddogreed0](https://x.com/kiddogreed0)
 * **Location:** Makati, Metro Manila, Philippines 🇵🇭
