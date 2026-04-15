@@ -15,7 +15,7 @@ I specialize in building scalable web applications and exploring the intersectio
 * **Languages:** Java (Spring Boot), TypeScript (Next.js), C#, SQL
 * **AI/LLM:** LangGraph, Vector DBs (pgvector), Ollama, RAG Architectures
 * **Database:** PostgreSQL, Prisma ORM
-* **Tools:** Docker, Git, Linux
+* **Tools:** Docker, Git
 
 ### 📬 Connect with Me
 * **Email:** johnrusselledomingo@gmail.com
