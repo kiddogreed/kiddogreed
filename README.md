@@ -4,6 +4,9 @@
 
 I specialize in building scalable web applications and exploring the intersection of DevOps and Artificial Intelligence. Currently focused on building autonomous agents and on-device AI solutions.
 
+
+> **Live site:** [kiddogreed.github.io/JohnRusselleDomingo](https://kiddogreed.github.io/JohnRusselleDomingo/)  
+> **Repository:** [github.com/kiddogreed/JohnRusselleDomingo](https://github.com/kiddogreed/JohnRusselleDomingo)
 ---
 
 ### 🚀 What I'm Working On
